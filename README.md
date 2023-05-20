@@ -1,16 +1,10 @@
-# etaproject
+# Servei
+Roadside assistance
+__________________________________
+### Description
+Servei is Cross platform mobile application using flutter. (If any driver has any problem with his vehicle on the road you don't need to be afraid or nervous any more with SERVEI you can easily pickup your phone open the app signup and make the request with the service you need and just wait till any provider accept you request and come help you you can connect with the provider and can see the ETA and his updated current location). Servei is mobile app has been made using Dart language, Firebase(authentication, Cloud Firestore , Cloud Messaging), Google API's(Google MAP, Directions, Distance matrix),State Management(Bloc)
+__________________________________
+### Wanna see what Servei can do ? 
+just click on the video below
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://github.com/Alaa-Eldin-Emad/Servei/assets/77211701/23809791-6a40-42fc-8798-a13198a37125
